@@ -5,12 +5,7 @@ This project is a simplified hotel booking chatbot implemented using Express.js,
 ## Table of Contents
 
 - [Project Setup](#project-setup)
-- [API Endpoints](#api-endpoints)
-- [Conversation Flow](#conversation-flow)
-- [Testing the Chatbot](#testing-the-chatbot)
-- [Frontend Interface](#frontend-interface)
 - [Video Demo](#video-demo)
-- [License](#license)
 
 ## Project Setup
 
@@ -41,16 +36,6 @@ This project is a simplified hotel booking chatbot implemented using Express.js,
 
     The server will start running on `http://localhost:3000`.
 
-## API Endpoints
 
-### POST /chat
-
-Send a message to the chatbot and receive a response.
-
-#### Request Body
-
-```json
-{
-  "userId": "user123",
-  "message": "I want to book a room"
-}
+## Video Demo
+https://drive.google.com/drive/folders/1woJM0WQbT3ofOWdmLgSz7x1uvUsywYxs?usp=drive_link
